@@ -1,3 +1,4 @@
 Use curl in cmd to make HTTP requests without a web browser.
 For example, after you've run: ballerina run hello_world.bal in the cmd in VS code,
-open up another cmd and run: curl localhost:9090/ and you will see Hello World! without having to open up a web browser.
+open up another cmd (not in VS code) and run: curl localhost:9090/ and you will see Hello World! 
+without having to open up a web browser.
