@@ -3,5 +3,5 @@ For example, after you've run: ballerina run hello_world.bal in the cmd in VS co
 open up another cmd (not in VS code) and run: curl localhost:9090/ and you will see Hello World! 
 without having to open up a web browser.
 
-To pass the "Edmund" string parameter to POST method:
-curl -X POST -d "Edmund" localhost:9090/hello/sayHello 
+In example.bal, to pass the "Edmund" string parameter to POST method:
+curl -X POST -d "Edmund" localhost:9090
