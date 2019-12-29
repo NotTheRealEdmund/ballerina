@@ -1,0 +1,15 @@
+# Ballerina twitter config file
+# The Twitter connector can be instantiated using the Consumer Key (API Key), Consumer Secret (API Secret), Access Token, 
+# and Access Token Secret in the Twitter client config.
+# To obtain API Keys and Tokens, 
+# 1. Visit https://apps.twitter.com/app/new and log in.
+# 2. Provide the required information about the application.
+# 3. Agree to the Developer Agreement and click Create your Twitter application.
+# 4. After creating your Twitter application, your Consumer Key and Consumer Secret will be displayed in the Keys and Access Tokens tab of your app on Twitter.
+# 5. Click the Keys and Access Tokens tab, and then enable your Twitter account to use this application by clicking the Create my access token button.
+# 6. Copy the Consumer key (API key), Consumer Secret, Access Token, and Access Token Secret from the screen.
+# Put in the actual values from apps.twitter.com
+clientId=""
+clientSecret=""
+accessToken=""
+accessTokenSecret=""
