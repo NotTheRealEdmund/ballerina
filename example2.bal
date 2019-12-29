@@ -11,7 +11,7 @@
 // Further instructions are in twitter.toml
 
 // To run, in VS code cmd, type in:
-// ballerina run example2 --b7a.config.file=twitter.toml
+// ballerina run example2.bal --b7a.config.file=twitter.toml
 // To tweet a message, in another cmd, type in:
 // curl -X POST -d "I am feeling good today!" localhost:9090
 
