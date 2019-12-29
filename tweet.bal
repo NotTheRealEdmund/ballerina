@@ -7,11 +7,11 @@
 // ballerina pull wso2/twitter
 
 // Then create a twitter account 
-// Then, create a new file "twitter.toml" in the same folder as example2.bal to store confidential data
+// Then, create a new file "twitter.toml" in the same folder as tweet.bal to store confidential data
 // Further instructions are in twitter.toml
 
 // To run, in VS code cmd, type in:
-// ballerina run example2.bal --b7a.config.file=twitter.toml
+// ballerina run tweet.bal --b7a.config.file=twitter.toml
 // To tweet a message, in another cmd, type in:
 // curl -X POST -d "I am feeling good today!" localhost:9090
 
